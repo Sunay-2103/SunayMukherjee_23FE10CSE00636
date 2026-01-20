@@ -1,3 +1,10 @@
 PreProcessing and EDA of Dataset 
 
+Dropped 5 columns which we found no use of 
+Filled empty rows with NaN values 
+Plotted the various colums of the datasets in the form of
+PairPlot 
+HeatMap
+etc 
+
 https://colab.research.google.com/drive/1kxFli-4iBgRX82jSto2zXMfaK4ZFncfd?usp=sharing
